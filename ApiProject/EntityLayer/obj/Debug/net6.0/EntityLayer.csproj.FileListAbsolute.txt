@@ -1,0 +1,14 @@
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+D:\Casgem Eğitim Projeleri\ApiProject\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

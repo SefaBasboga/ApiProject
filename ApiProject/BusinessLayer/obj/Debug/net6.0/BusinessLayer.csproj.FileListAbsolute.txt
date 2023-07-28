@@ -1,0 +1,17 @@
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,15 @@
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\ApiProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
